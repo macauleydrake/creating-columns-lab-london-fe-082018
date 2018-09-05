@@ -3,7 +3,7 @@ body, html {
   height: 100%;
   font-family: Apple Chancery, cursive;
   margin: 0 auto;
-  display: inline-block;
+  display: block;
   text-align: center;
   background-color: #666;
 }
@@ -47,6 +47,7 @@ img:hover {
 }
 
 .column {
+  display: block;
   width:33%;
   padding:5%;
   
