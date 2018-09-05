@@ -48,12 +48,12 @@ img:hover {
 
 .column {
   width:33%;
-  padding:3%;
+  padding:5%;
   
 }
 
 .small {
-  
+  width:100%;
 }
 
 .med {
